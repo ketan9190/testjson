@@ -1,0 +1,59 @@
+{
+
+    "GetItemAvailabilityBySubsidiaryCode" : [
+        {
+            "header": {
+                "_attrs": {
+                    "list-id": "1123"
+                },
+                "default-instock": false,
+                "description": "Product Sku inventory",
+                "use-bundle-inventory-only": false,
+                "on-order": false
+            },
+            "records": {
+                "record": [
+                    {
+                        "_attrs": {
+                            "product-id": "06002657"
+                        },
+                        "allocation": "0"
+                    },
+                    {
+                        "_attrs": {
+                            "product-id": "06107525"
+                        },
+                        "allocation": "12.000"
+                    }
+                ]
+            }
+        },
+        {
+            "header": {
+                "_attrs": {
+                    "list-id": "1032"
+                },
+                "default-instock": false,
+                "description": "Product Sku inventory",
+                "use-bundle-inventory-only": false,
+                "on-order": false
+            },
+            "records": {
+                "record": [
+                    {
+                        "_attrs": {
+                            "product-id": "06002709"
+                        },
+                        "allocation": "251.000"
+                    },
+                    {
+                        "_attrs": {
+                            "product-id": "06002710"
+                        },
+                        "allocation": "266.000"
+                    }
+                ]
+            }
+        }
+    ]
+}
